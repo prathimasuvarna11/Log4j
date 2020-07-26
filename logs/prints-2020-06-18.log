@@ -1,0 +1,9 @@
+18:35:10.228 [main] ERROR alpha.Demo - Failure message
+18:35:10.244 [main] FATAL alpha.Demo - Fatal test
+18:43:50.971 [main] DEBUG alpha.act - Setting chrome driver property
+18:44:05.532 [main] INFO  alpha.act - Window Maximized
+18:44:05.532 [main] DEBUG alpha.act - Now hitting Amazon server
+18:44:08.526 [main] INFO  alpha.act - Landed on amazon home page
+18:44:14.961 [main] DEBUG alpha.act - Getting the frames count
+18:44:14.987 [main] INFO  alpha.act - Frames count retreived
+18:44:15.002 [main] INFO  alpha.act - Successfully switched to frame
